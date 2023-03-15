@@ -1,5 +1,5 @@
 # xander-html-attribute-exercises
-html excercise
+html exercise
 
 
 Exercise 1 - Headings, Paragraphs and Tables
